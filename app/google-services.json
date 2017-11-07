@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "426880710847",
+    "project_id": "counter-50bc0"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426880710847:android:93f8c8eca2eb47a6",
+        "android_client_info": {
+          "package_name": "br.com.moura.renan.counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426880710847-1mqe47qm4ae609igljrnoufpvrn1trd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnAYDjOc4h_O5Q9_uQLFkG8acqOv-doc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-109324511-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
